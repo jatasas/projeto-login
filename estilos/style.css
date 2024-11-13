@@ -29,3 +29,25 @@ main {
     width: 100vw;
 } 
 
+section#login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    overflow: hidden;
+    
+    background-color: white;
+    width: 250px;
+    height: 500px;
+    border-radius: 20px;
+}   
+
+section#login > div#imagem {
+    background: #011826 url(../imagens/pexels-tiennguyen-28927898.jpg);
+    background-size: cover;
+    background-position: left bottom;
+}   
+
+section#formulario {
+
+}    
