@@ -7,5 +7,25 @@
  BEJE               #D2C0B6
  CINZA              #A1A4A6
  QUASE PRETO        #011826
- 
+
 */
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: #011826;
+    height: 100vh;
+    width: 100vw;
+}
+
+main {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+} 
+
